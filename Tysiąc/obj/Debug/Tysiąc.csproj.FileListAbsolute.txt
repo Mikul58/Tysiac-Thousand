@@ -1,0 +1,6 @@
+D:\Projekty VS\Tysiąc\Tysiąc\obj\Debug\Tysiąc.csprojResolveAssemblyReference.cache
+D:\Projekty VS\Tysiąc\Tysiąc\bin\Debug\Tysiąc.exe.config
+D:\Projekty VS\Tysiąc\Tysiąc\bin\Debug\Tysiąc.exe
+D:\Projekty VS\Tysiąc\Tysiąc\bin\Debug\Tysiąc.pdb
+D:\Projekty VS\Tysiąc\Tysiąc\obj\Debug\Tysiąc.exe
+D:\Projekty VS\Tysiąc\Tysiąc\obj\Debug\Tysiąc.pdb
